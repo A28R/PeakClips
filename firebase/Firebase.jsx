@@ -39,7 +39,7 @@ import FormData from "form-data";
 const firebaseContext = createContext();
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAbWdePotnV1V4h_sOVwcHbr7HZtVNALTE",
+  apiKey: INSERT API KEY HERE,
   authDomain: "web-app-project-bbfed.firebaseapp.com",
   projectId: "web-app-project-bbfed",
   storageBucket: "web-app-project-bbfed.appspot.com",
